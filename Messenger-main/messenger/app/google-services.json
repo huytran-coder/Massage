@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1080016345283",
+    "firebase_url": "https://message-e8b7a-default-rtdb.firebaseio.com",
+    "project_id": "message-e8b7a",
+    "storage_bucket": "message-e8b7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080016345283:android:9c60fca489147aba9daa76",
+        "android_client_info": {
+          "package_name": "com.example.easychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPPNVLeqnO9-uEic5Lvyi3O877IUO3wfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080016345283:android:16c02b4641ef341f9daa76",
+        "android_client_info": {
+          "package_name": "com.example.message"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPPNVLeqnO9-uEic5Lvyi3O877IUO3wfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080016345283:android:604fe7a4e3cfc97c9daa76",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPPNVLeqnO9-uEic5Lvyi3O877IUO3wfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
